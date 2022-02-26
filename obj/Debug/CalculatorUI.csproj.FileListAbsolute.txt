@@ -1,0 +1,13 @@
+K:\PROGRAMMING\C# Projects\CalculatorUI\bin\Debug\CalculatorUI.exe.config
+K:\PROGRAMMING\C# Projects\CalculatorUI\bin\Debug\CalculatorUI.exe
+K:\PROGRAMMING\C# Projects\CalculatorUI\bin\Debug\CalculatorUI.pdb
+K:\PROGRAMMING\C# Projects\CalculatorUI\bin\Debug\BasicCalculatorDLL.dll
+K:\PROGRAMMING\C# Projects\CalculatorUI\bin\Debug\BasicCalculatorDLL.pdb
+K:\PROGRAMMING\C# Projects\CalculatorUI\obj\Debug\CalculatorUI.csprojAssemblyReference.cache
+K:\PROGRAMMING\C# Projects\CalculatorUI\obj\Debug\CalculatorUI.Properties.Resources.resources
+K:\PROGRAMMING\C# Projects\CalculatorUI\obj\Debug\CalculatorUI.csproj.GenerateResource.cache
+K:\PROGRAMMING\C# Projects\CalculatorUI\obj\Debug\CalculatorUI.csproj.CoreCompileInputs.cache
+K:\PROGRAMMING\C# Projects\CalculatorUI\obj\Debug\CalculatorUI.csproj.CopyComplete
+K:\PROGRAMMING\C# Projects\CalculatorUI\obj\Debug\CalculatorUI.exe
+K:\PROGRAMMING\C# Projects\CalculatorUI\obj\Debug\CalculatorUI.pdb
+K:\PROGRAMMING\C# Projects\CalculatorUI\obj\Debug\CalculatorUI.FrmBasicCalculator.resources
